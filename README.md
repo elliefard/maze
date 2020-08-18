@@ -1,0 +1,3 @@
+# maze
+
+![](images/maze.png)
